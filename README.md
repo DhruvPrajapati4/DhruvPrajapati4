@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning ****Data Structures, Algorithms and App Development.****
 - 👯 I’m looking to collaborate with other content creators 
 - 📫 You can reach me out on LinkedIn for anything. 
-- ⚡ Fun fact: I love to play Cricket. 
 
 ### Connect with me!
 <p align="left">
