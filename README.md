@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/64805962/121328405-ece5dd80-c931-11eb-9a6f-605ef93ec8f3.gif">
 </p>
 
-- 🌱 I’m currently learning ****Data Structures, Algorithms and App Development.****
+- 🌱 I’m currently learning ****Data Structures, Algorithms and Backend Development.****
 - 👯 I’m looking to collaborate with other content creators 
 - 📫 You can reach me out on LinkedIn for anything. 
 
