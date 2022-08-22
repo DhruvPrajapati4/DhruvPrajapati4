@@ -1,11 +1,17 @@
-<h1 align="center"> Hi there <img width="40" height="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Dhruv Prajapati </h1>
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/64805962/121328405-ece5dd80-c931-11eb-9a6f-605ef93ec8f3.gif">
-</p>
+<h1> Hi there <img width="40" height="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Dhruv Prajapati </h1>
 
-- 🌱 I’m currently learning ****Data Structures, Algorithms and Backend Development.****
-- 👯 I’m looking to collaborate with other content creators 
-- 📫 You can reach me out on LinkedIn for anything. 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Backend Developement
+- 🎓 &nbsp; Studying Computer Science and Engineering 
+- 💼 &nbsp; Competitive Programmer and back-end web developer.
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C++ | HTML | CSS | JavaScript | Node.JS | Express.JS 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Visual Studio code | Git
 
 ### Connect with me!
 <p align="left">
