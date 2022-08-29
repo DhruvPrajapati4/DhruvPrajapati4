@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I’m currently learning Backend Developement
 - 🎓 &nbsp; Studying Computer Science and Engineering 
-- 💼 &nbsp; Competitive Programmer and back-end web developer.
+- 💼 &nbsp; Into Competitive Programming and DSA
 
 
 <h3>🛠 Tech Stack</h3>
