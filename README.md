@@ -9,9 +9,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | HTML | CSS | JavaScript | Node.JS | Express.JS 
+- 💻 &nbsp; C++ | Java | HTML | CSS | JavaScript | Node.JS | Express | Spring boot
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Apache Netbeans | Visual Studio code | Git
 
 ### Connect with me!
 <p align="left">
