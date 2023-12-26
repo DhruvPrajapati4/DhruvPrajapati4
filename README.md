@@ -2,16 +2,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Full-stack Developement
+- 🔭 &nbsp; I’m currently learning Backend Developement
 - 🎓 &nbsp; Studying Computer Science and Engineering 
-- 💼 &nbsp; Into DSA and Web Development
+- 💼 &nbsp; Into DSA and Backend Development
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Java | HTML | CSS | JavaScript | React | Spring | Spring boot | JUnit
+- 💻 &nbsp; C++ | GoLang | Java | HTML | CSS | JavaScript | Spring | Spring boot | JUnit
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Apache Netbeans | Visual Studio code | Git
+- 🔧 &nbsp; Apache Netbeans | Visual Studio code | Git | Postman | AWS
 
 ### Connect with me!
 <p align="left">
