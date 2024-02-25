@@ -3,13 +3,13 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Backend Developement
-- 🎓 &nbsp; Studying Computer Science and Engineering 
+- 🎓 &nbsp; Studied Computer Science and Engineering 
 - 💼 &nbsp; Into DSA and Backend Development
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | GoLang | Java | HTML | CSS | JavaScript | Spring | Spring boot | JUnit
+- 💻 &nbsp; C++ | GoLang | Java | HTML | CSS | JavaScript | Spring | Spring boot
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Apache Netbeans | Visual Studio code | Git | Postman | AWS
 
